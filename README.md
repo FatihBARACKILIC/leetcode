@@ -1,1 +1,3 @@
-# leetcode
+# LeetCode
+
+[LeetCode](https://leetcode.com/)
