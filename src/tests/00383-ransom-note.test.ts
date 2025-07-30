@@ -7,9 +7,12 @@ describe("00383 canConstruct", () => {
     ["aa", "ab", false],
     ["aa", "aab", true],
     ["fihjjjjei", "hjibagacbhadfaefdjaeaebgi", false],
-  ])("should return for", (ransomNode, magazine, expected) => {
-    expect(canConstruct(ransomNode, magazine)).toBe(expected);
-  });
+  ])(
+    "canConstruct(%s, %s) should return %s",
+    (ransomNode, magazine, expected) => {
+      expect(canConstruct(ransomNode, magazine)).toBe(expected);
+    }
+  );
 });
 
 describe("00383 canConstruct2", () => {
@@ -18,7 +21,10 @@ describe("00383 canConstruct2", () => {
     ["aa", "ab", false],
     ["aa", "aab", true],
     ["fihjjjjei", "hjibagacbhadfaefdjaeaebgi", false],
-  ])("should return for", (ransomNode, magazine, expected) => {
-    expect(canConstruct2(ransomNode, magazine)).toBe(expected);
-  });
+  ])(
+    "canConstruct2(%s, %s) should return %s",
+    (ransomNode, magazine, expected) => {
+      expect(canConstruct2(ransomNode, magazine)).toBe(expected);
+    }
+  );
 });
