@@ -4,6 +4,31 @@ import (
 	"strconv"
 )
 
+// fizzBuzz returns the FizzBuzz sequence as a slice of strings from 1 to n.
+//
+// Given an integer n, the function returns a 1-indexed slice where:
+// - Element is "FizzBuzz" if the index is divisible by both 3 and 5.
+// - Element is "Fizz" if the index is divisible by 3.
+// - Element is "Buzz" if the index is divisible by 5.
+// - Otherwise, the element is the number itself as a string.
+//
+// Example 1:
+// Input: 3
+// Output: ["1", "2", "Fizz"]
+//
+// Example 2:
+// Input: 5
+// Output: ["1", "2", "Fizz", "4", "Buzz"]
+//
+// Example 3:
+// Input: 15
+// Output: ["1", "2", "Fizz", "4", "Buzz", "Fizz", "7", "8", "Fizz", "Buzz", "11", "Fizz", "13", "14", "FizzBuzz"]
+//
+// Parameters:
+// - n: An integer representing the upper bound of the FizzBuzz sequence.
+//
+// Returns:
+// - A slice of strings representing the FizzBuzz sequence.
 func fizzBuzz(n int) []string {
 	answer := []string{}
 
