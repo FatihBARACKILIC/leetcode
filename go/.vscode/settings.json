@@ -1,7 +1,5 @@
 {
   "workbench.editor.customLabels.patterns": {
-    "**/typescript/src/**/index.ts": "${dirname}.${extname}",
-    "**/typescript/src/**/index.test.ts": "${dirname}.${extname}",
     "**/go/**/main.go": "${dirname}.${extname}",
     "**/go/**/main_test.go": "${dirname}_test.${extname}"
   }
