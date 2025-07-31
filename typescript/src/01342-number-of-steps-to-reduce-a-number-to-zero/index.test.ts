@@ -3,7 +3,7 @@ import {
   numberOfSteps,
   numberOfStepsBitManipulation,
   numberOfStepsBitManipulation2,
-} from "../01342-number-of-steps-to-reduce-a-number-to-zero";
+} from "@/01342-number-of-steps-to-reduce-a-number-to-zero";
 
 describe("01342 numberOfSteps", () => {
   test.each([

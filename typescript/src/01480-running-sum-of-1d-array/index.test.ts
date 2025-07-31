@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-import { runningSum } from "../01480-running-sum-of-1d-array";
+import { runningSum } from "@/01480-running-sum-of-1d-array";
 
 describe("01480 runningSum", () => {
   test.each([

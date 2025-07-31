@@ -3,7 +3,7 @@ import {
   ListNode,
   middleNode,
   middleNode2,
-} from "../00876-middle-of-the-linked-list";
+} from "@/00876-middle-of-the-linked-list";
 
 describe("00876 middleNode", () => {
   it("should return [3,4,5] for [1,2,3,4,5]", () => {

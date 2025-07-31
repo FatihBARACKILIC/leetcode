@@ -1,5 +1,5 @@
 import { describe, test, expect } from "vitest";
-import { canConstruct, canConstruct2 } from "../00383-ransom-note";
+import { canConstruct, canConstruct2 } from "@/00383-ransom-note";
 
 describe("00383 canConstruct", () => {
   test.each([

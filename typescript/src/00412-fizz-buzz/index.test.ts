@@ -1,5 +1,5 @@
 import { describe, expect, test } from "vitest";
-import { fizzBuzz, fizzBuzz2 } from "../00412-fizz-buzz";
+import { fizzBuzz, fizzBuzz2 } from "@/00412-fizz-buzz";
 
 describe("00412 fizzBuzz", () => {
   test.each([

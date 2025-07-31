@@ -1,8 +1,5 @@
 import { describe, expect, test } from "vitest";
-import {
-  maximumWealth,
-  maximumWealth2,
-} from "../01672-richest-customer-wealth";
+import { maximumWealth, maximumWealth2 } from "@/01672-richest-customer-wealth";
 
 describe("01672 maximumWealth", () => {
   test.each([
