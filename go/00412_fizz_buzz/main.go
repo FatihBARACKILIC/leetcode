@@ -48,3 +48,21 @@ func fizzBuzz(n int) []string {
 
 	return answer
 }
+
+func fizzBuzz2(n int) []string {
+	answer := make([]string, n)
+	for i := range answer {
+		currentText := ""
+		if (i+1)%3 == 0 {
+			currentText += "Fizz"
+		}
+		if (i+1)%5 == 0 {
+			currentText += "Buzz"
+		}
+		if currentText == "" {
+			currentText = strconv.Itoa(i + 1)
+		}
+		answer[i] = currentText
+	}
+	return answer
+}
