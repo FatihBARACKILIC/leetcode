@@ -4,6 +4,9 @@
 
 ## Solved
 
+- [00118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
+  - [Go](./go/00118_pascals_triangle/main.go)
+  - [TypeScript](./typescript/src/00118-pascals-triangle/index.ts)
 - [00383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)
   - [TypeScript](./typescript/src/00383-ransom-note/index.ts)
 - [00412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
