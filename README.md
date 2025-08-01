@@ -8,6 +8,7 @@
   - [Go](./go/00118_pascals_triangle/main.go)
   - [TypeScript](./typescript/src/00118-pascals-triangle/index.ts)
 - [00383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)
+  - [Go](./go/00383_ransom_note/main.go)
   - [TypeScript](./typescript/src/00383-ransom-note/index.ts)
 - [00412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
   - [Go](./go/00412_fizz_buzz/main.go)
