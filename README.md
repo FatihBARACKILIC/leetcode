@@ -13,6 +13,8 @@
 - [00412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
   - [Go](./go/00412_fizz_buzz/main.go)
   - [TypeScript](./typescript/src/00412-fizz-buzz/index.ts)
+- [00485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+  - [TypeScript](./typescript/src/00485-max-consecutive-ones/index.ts)
 - [00876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
   - [TypeScript](./typescript/src/00876-middle-of-the-linked-list/index.ts)
 - [01342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/)
