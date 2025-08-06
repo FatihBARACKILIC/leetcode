@@ -19,6 +19,8 @@
   - [TypeScript](./typescript/src/00876-middle-of-the-linked-list/index.ts)
 - [00977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
   - [TypeScript](./typescript/src/00977-squares-of-a-sorted-array/index.ts)
+- [01089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/)
+  - [TypeScript](./typescript/src/01089-duplicate-zeros/index.ts)
 - [01295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
   - [TypeScript](./typescript/src/01295-find-numbers-with-even-number-of-digits/index.ts)
 - [01342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/)
