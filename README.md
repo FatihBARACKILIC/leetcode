@@ -31,5 +31,7 @@
 - [01672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)
   - [TypeScript](./typescript/src/01672-richest-customer-wealth/index.ts)
   - [Go](./go/01672_richest_customer_wealth/main.go)
+- [02620. Counter](https://leetcode.com/problems/counter/description/)
+  - [TypeScript](./typescript/src/02620-counter/index.ts)
 - [02667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/)
   - [TypeScript](./typescript/src/02667-create-hello-world-function/index.js)
