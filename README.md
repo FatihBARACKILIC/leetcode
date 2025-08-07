@@ -4,6 +4,8 @@
 
 ## Solved
 
+- [00088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+  - [TypeScript](./typescript/src/00088-merge-sorted-array/index.ts)
 - [00118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
   - [Go](./go/00118_pascals_triangle/main.go)
   - [TypeScript](./typescript/src/00118-pascals-triangle/index.ts)
