@@ -9,6 +9,8 @@
 - [00118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
   - [Go](./go/00118_pascals_triangle/main.go)
   - [TypeScript](./typescript/src/00118-pascals-triangle/index.ts)
+- [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
+  - [TypeScript](./typescript/src/00231-power-of-two/index.ts)
 - [00383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)
   - [Go](./go/00383_ransom_note/main.go)
   - [TypeScript](./typescript/src/00383-ransom-note/index.ts)
