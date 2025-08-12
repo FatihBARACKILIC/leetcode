@@ -4,6 +4,8 @@
 
 ## Solved
 
+- [00027. Remove Element](https://leetcode.com/problems/remove-element/description/)
+  - [TypeScript](./typescript/src/00027-remove-element/index.ts)
 - [00088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
   - [TypeScript](./typescript/src/00088-merge-sorted-array/index.ts)
 - [00118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
