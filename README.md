@@ -4,6 +4,8 @@
 
 ## Solved
 
+- [00026. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+  - [TypeScript](./typescript/src/00026-remove-duplicates-from-sorted-array/index.ts)
 - [00027. Remove Element](https://leetcode.com/problems/remove-element/description/)
   - [TypeScript](./typescript/src/00027-remove-element/index.ts)
 - [00088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
