@@ -15,6 +15,8 @@
   - [TypeScript](./typescript/src/00118-pascals-triangle/index.ts)
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
   - [TypeScript](./typescript/src/00231-power-of-two/index.ts)
+- [00326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
+  - [TypeScript](./typescript/src/00326-power-of-three/index.ts)
 - [00383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)
   - [Go](./go/00383_ransom_note/main.go)
   - [TypeScript](./typescript/src/00383-ransom-note/index.ts)
