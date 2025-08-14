@@ -41,6 +41,8 @@
 - [01672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)
   - [TypeScript](./typescript/src/01672-richest-customer-wealth/index.ts)
   - [Go](./go/01672_richest_customer_wealth/main.go)
+- [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)
+  - [TypeScript](./typescript/src/02264-largest-3-same-digit-number-in-string/index.ts)
 - [02438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/)
   - [TypeScript](./typescript/src/02438-range-product-queries-of-powers/index.ts)
 - [02620. Counter](https://leetcode.com/problems/counter/description/)
