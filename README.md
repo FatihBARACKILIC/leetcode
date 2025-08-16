@@ -35,6 +35,8 @@
   - [TypeScript](./typescript/src/01089-duplicate-zeros/index.ts)
 - [01295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
   - [TypeScript](./typescript/src/01295-find-numbers-with-even-number-of-digits/index.ts)
+- [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/)
+  - [TypeScript](./typescript/src/01323-maximum-69-number/index.ts)
 - [01342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/)
   - [TypeScript](./typescript/src/01342-number-of-steps-to-reduce-a-number-to-zero/index.ts)
 - [01480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
