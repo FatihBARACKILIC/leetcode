@@ -39,6 +39,8 @@
   - [TypeScript](./typescript/src/01323-maximum-69-number/index.ts)
 - [01342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/)
   - [TypeScript](./typescript/src/01342-number-of-steps-to-reduce-a-number-to-zero/index.ts)
+- [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)
+  - [TypeScript](./typescript/src/01346-check-if-n-and-its-double-exist/index.ts)
 - [01480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
   - [Go](./go/01480_running_sum_of_1d_array/main.go)
   - [TypeScript](./typescript/src/01480-running-sum-of-1d-array/index.ts)
