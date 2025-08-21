@@ -53,6 +53,8 @@
   - [TypeScript](./typescript/src/02438-range-product-queries-of-powers/index.ts)
 - [02620. Counter](https://leetcode.com/problems/counter/description/)
   - [TypeScript](./typescript/src/02620-counter/index.ts)
+- [2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/)
+  - [TypeScript](./typescript/src/02634-filter-elements-from-array/index.ts)
 - [2635. Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/)
   - [TypeScript](./typescript/src/02635-apply-transform-over-each-element-in-array/index.ts)
 - [2665. Counter II](https://leetcode.com/problems/counter-ii/description/)
