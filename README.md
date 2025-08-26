@@ -65,3 +65,5 @@
   - [TypeScript](./typescript/src/02667-create-hello-world-function/index.js)
 - [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/)
   - [TypeScript](./typescript/src/02704-to-be-or-not-to-be/index.ts)
+- [3000. Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/)
+  - [TypeScript](./typescript/src/3000-maximum-area-of-longest-diagonal-rectangle/index.ts)
