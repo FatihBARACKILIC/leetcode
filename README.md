@@ -61,6 +61,8 @@
   - [TypeScript](./typescript/src/02665-counter-ii/index.ts)
 - [2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/)
   - [TypeScript](./typescript/src/02626-array-reduce-transformation/index.ts)
+- [2629. Function Composition](https://leetcode.com/problems/function-composition/description/)
+  - [TypeScript](./typescript/src/02629/index.ts)
 - [02667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/)
   - [TypeScript](./typescript/src/02667-create-hello-world-function/index.js)
 - [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/)
