@@ -65,6 +65,8 @@
   - [TypeScript](./typescript/src/02629/index.ts)
 - [02667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/)
   - [TypeScript](./typescript/src/02667-create-hello-world-function/index.js)
+- [2703. Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)
+  - [TypeScript](./typescript/src/02703-return-length-of-arguments-passed/index.ts)
 - [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/)
   - [TypeScript](./typescript/src/02704-to-be-or-not-to-be/index.ts)
 - [3000. Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/)
