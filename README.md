@@ -29,6 +29,8 @@
   - [TypeScript](./typescript/src/00485-max-consecutive-ones/index.ts)
 - [00876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
   - [TypeScript](./typescript/src/00876-middle-of-the-linked-list/index.ts)
+- [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/)
+  - [TypeScript](./typescript/src/00941-valid-mountain-array/index.ts)
 - [00977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
   - [TypeScript](./typescript/src/00977-squares-of-a-sorted-array/index.ts)
 - [01089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/)
