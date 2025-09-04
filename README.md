@@ -71,5 +71,7 @@
   - [TypeScript](./typescript/src/02703-return-length-of-arguments-passed/index.ts)
 - [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/)
   - [TypeScript](./typescript/src/02704-to-be-or-not-to-be/index.ts)
+- [2723. Add Two Promises](https://leetcode.com/problems/add-two-promises/description/)
+  - [TypeScript](./typescript/src/02723-add-two-promises/index.ts)
 - [3000. Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/)
   - [TypeScript](./typescript/src/3000-maximum-area-of-longest-diagonal-rectangle/index.ts)
