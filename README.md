@@ -65,6 +65,8 @@
   - [TypeScript](./typescript/src/02626-array-reduce-transformation/index.ts)
 - [2629. Function Composition](https://leetcode.com/problems/function-composition/description/)
   - [TypeScript](./typescript/src/02629/index.ts)
+- [2666. Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/)
+  - [TypeScript](./typescript/src/02666-allow-one-function-call/index.ts)
 - [02667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/)
   - [TypeScript](./typescript/src/02667-create-hello-world-function/index.js)
 - [2703. Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)
