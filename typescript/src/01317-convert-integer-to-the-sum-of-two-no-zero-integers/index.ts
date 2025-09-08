@@ -29,6 +29,7 @@
  * @param {number} n
  * @returns {number[]}
  */
+
 function getNoZeroIntegers(n: number): number[] {
   for (let i = 1; i < n; i++) {
     if (hasZero(i)) continue;
@@ -41,7 +42,26 @@ function getNoZeroIntegers(n: number): number[] {
 }
 
 function hasZero(n: number): boolean {
+  while (n > 0) {
+    if (n % 10 === 0) return true;
+    n = Math.floor(n / 10);
+  }
+  return false;
+}
+
+function getNoZeroIntegers1(n: number): number[] {
+  for (let i = 1; i < n; i++) {
+    if (hasZero1(i)) continue;
+    const remaining = n - i;
+    if (!hasZero1(remaining)) {
+      return [i, remaining];
+    }
+  }
+  return [];
+}
+
+function hasZero1(n: number): boolean {
   return n.toString().includes("0");
 }
 
-export { getNoZeroIntegers };
+export { getNoZeroIntegers, getNoZeroIntegers1 };
