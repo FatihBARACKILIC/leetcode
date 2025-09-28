@@ -85,5 +85,7 @@
   - [TypeScript](./typescript/src/02723-add-two-promises/index.ts)
 - [2725. Interval Cancellation](https://leetcode.com/problems/interval-cancellation/description/)
   - [TypeScript](./typescript/src/02725-interval-cancellation/index.ts)
+- [2727. Is Object Empty](https://leetcode.com/problems/is-object-empty/description/)
+  - [TypeScript](./typescript/src/02727-is-object-empty/index.ts)
 - [3000. Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/)
   - [TypeScript](./typescript/src/3000-maximum-area-of-longest-diagonal-rectangle/index.ts)
