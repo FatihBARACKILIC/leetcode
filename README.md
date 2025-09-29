@@ -75,6 +75,8 @@
   - [TypeScript](./typescript/src/02666-allow-one-function-call/index.ts)
 - [02667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/)
   - [TypeScript](./typescript/src/02667-create-hello-world-function/index.js)
+- [2677. Chunk Array](https://leetcode.com/problems/chunk-array/description/)
+  - [TypeScript](./typescript/src/02677-chunk-array/index.ts)
 - [2703. Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/description/)
   - [TypeScript](./typescript/src/02703-return-length-of-arguments-passed/index.ts)
 - [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/)
